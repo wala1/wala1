@@ -1,11 +1,12 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Wala Alimi</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
 - 🔭 I’m currently working on [DownToWork_React](https://github.com/wala1/DownToWork_React)
 
-- 🌱 I’m currently learning **React - Express**
-
 - 🔭 I’m also working on [DownToWork_Node](https://github.com/wala1/DownToWork_Node)
+
+- 🌱 I’m currently learning **React - Express**
 
 - 📫 How to reach me **aalimi.wala@gmail.com**
 
